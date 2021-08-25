@@ -5,7 +5,22 @@
 
 I am Mehady from Bangladesh, and I do content on Design and Development website. I really enjoy learning languages and frameworks like React and React Native, as well as work in MERN. I also enjoy designing the website cause I am also a website designer.
 
-### Skills:  REACTJS / JS / HTML / CSS/ NODE/ MONGODB/ FIREBASE
+### Skills:  
+
+-C
+-C++
+-REACTJS  
+-Java Script
+-HTML
+-CSS
+-NODE
+-MONGODB
+-FIREBASE
+-Boostrap
+-Material UI
+-Tailwind CSS
+
+
 ### Experience: 3 Years of Design and Development.
 
 - 🔭 I’m currently working on https://www.fiverr.com/ 
