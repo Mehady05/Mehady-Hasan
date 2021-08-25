@@ -1,11 +1,12 @@
 ![Front-end developer using MERN aslo design the website](https://pbs.twimg.com/profile_banners/1390259740895158273/1629864054/1500x500)
 
-### Hi there 👋, Mehady Hasan
+### Hi there 👋, I am Mehady Hasan
 #### Front-end developer using MERN aslo design the website
 
 I am Mehady from Bangladesh, and I do content on Design and Development website. I really enjoy learning languages and frameworks like React and React Native, as well as work in MERN. I also enjoy designing the website cause I am also a website designer.
 
-Skills:  REACTJS / JS / HTML / CSS/ NODE/ MONGODB/ FIREBASE
+### Skills:  REACTJS / JS / HTML / CSS/ NODE/ MONGODB/ FIREBASE
+### Experience: 3 Years of Design and Development.
 
 - 🔭 I’m currently working on https://www.fiverr.com/ 
 - 🌱 I’m currently learning c, c++, react native 
